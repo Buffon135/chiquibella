@@ -16,67 +16,68 @@ function App() {
     {
       id: 1,
       description: 'Di si por favor',
-      img: 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif',
+      img: '<div class="tenor-gif-embed" data-postid="9687596934282441288" data-share-method="host" data-aspect-ratio="1.04667" data-width="100%"><a href="https://tenor.com/view/hello-kitty-gif-9687596934282441288">Hello Kitty Sticker</a>from <a href="https://tenor.com/search/hello+kitty-stickers">Hello Kitty Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 1,
       description: 'Piénsalo de nuevo.',
-      img: 'https://i.pinimg.com/originals/77/6b/21/776b215bed3deeef47fd3aa657685a18.gif',
+      img: '<div class="tenor-gif-embed" data-postid="12839460080773207053" data-share-method="host" data-aspect-ratio="1.37569" data-width="100%"><a href="https://tenor.com/view/kedikizx-sanrio-hello-kitty-love-hearts-gif-12839460080773207053">Kedikizx Sanrio GIF</a>from <a href="https://tenor.com/search/kedikizx-gifs">Kedikizx GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 2,
       description: 'Vamos, atrévete a decir que sí.',
-      img: 'https://media.tenor.com/DTmYqda3ZokAAAAi/peachandgoma.gif',
+      img: '<div class="tenor-gif-embed" data-postid="16969081933146884134" data-share-method="host" data-aspect-ratio="1.09211" data-width="100%"><a href="https://tenor.com/view/kitty-gif-16969081933146884134">Kitty GIF</a>from <a href="https://tenor.com/search/kitty-gifs">Kitty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 3,
-      description: 'No tengas miedo, será genial.',
-      img: 'https://i.pinimg.com/originals/e1/c3/88/e1c388133e0f998e25bb17c837b74a14.gif',
+      description: 'Confía en mí, será divertido.',
+      img: '<div class="tenor-gif-embed" data-postid="11458646006449185996" data-share-method="host" data-aspect-ratio="1.2378" data-width="100%"><a href="https://tenor.com/view/love-you-bear-hello-kitty-cute-pink-gif-11458646006449185996">Love You Bear GIF</a>from <a href="https://tenor.com/search/love+you-gifs">Love You GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 4,
-      description: 'Confía en mí, será divertido.',
-      img: 'https://media.tenor.com/Bn88VELdNI8AAAAi/peach-goma.gif',
+      description: 'No tengas dudas, te hará sonreír.',
+      img: '<div class="tenor-gif-embed" data-postid="9418957212397105135" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/huna04-gif-9418957212397105135">Huna04 GIF</a>from <a href="https://tenor.com/search/huna04-gifs">Huna04 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 5,
-      description: 'No tengas dudas, te hará sonreír.',
-      img: 'https://i.pinimg.com/originals/c6/b3/0d/c6b30d1a2dc178aeb92de63295d4ae64.gif',
+      description: 'Te prometo que será inolvidable.',
+      img: '<div class="tenor-gif-embed" data-postid="11550066762008846847" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/huna04-gif-11550066762008846847">Huna04 GIF</a>from <a href="https://tenor.com/search/huna04-gifs">Huna04 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 6,
-      description: 'Te prometo que será inolvidable.',
-      img: 'https://media.tenor.com/N2oqtqaB_G0AAAAi/peach-goma.gif',
+      description: 'No dejes que el miedo te detenga.',
+      img: '<div class="tenor-gif-embed" data-postid="13861341" data-share-method="host" data-aspect-ratio="1.21769" data-width="100%"><a href="https://tenor.com/view/hello-kitty-love-hearts-gif-13861341">Hello Kitty Love Sticker</a>from <a href="https://tenor.com/search/hello+kitty-stickers">Hello Kitty Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 7,
-      description: 'No dejes que el miedo te detenga.',
-      img: 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif',
+      description: 'Confía en el destino, nos está dando una señal.',
+      img: '<div class="tenor-gif-embed" data-postid="3289489037792454675" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/huna04-gif-3289489037792454675">Huna04 GIF</a>from <a href="https://tenor.com/search/huna04-gifs">Huna04 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 8,
-      description: 'Confía en el destino, nos está dando una señal.',
-      img: 'https://media.tenor.com/cbEccaK9QxMAAAAi/peach-goma.gif',
+      description: 'Confía en mí.',
+      img: '<div class="tenor-gif-embed" data-postid="9511155908388886303" data-share-method="host" data-aspect-ratio="1.23333" data-width="100%"><a href="https://tenor.com/view/blowing-kisses-kisses-love-you-gif-9511155908388886303">Blowing Kisses Love You Sticker</a>from <a href="https://tenor.com/search/blowing+kisses-stickers">Blowing Kisses Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 9,
-      description: 'Confía en mí.',
-      img: 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif',
+      description: 'Ya pon que siiii',
+      img: '<div class="tenor-gif-embed" data-postid="16659791079022898901" data-share-method="host" data-aspect-ratio="1.44355" data-width="100%"><a href="https://tenor.com/view/july-4th-gif-16659791079022898901">July 4th Sticker</a>from <a href="https://tenor.com/search/july+4th-stickers">July 4th Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
     {
       id: 10,
-      description: 'No te arrepentirás.',
-      img: 'https://media.tenor.com/I7KdFaMzUq4AAAAi/peach-goma.gif',
-    },
-    {
-      id: 11,
-      description: 'Ya pon que siiii',
-      img: 'https://media.tenor.com/_4KFcz84OGMAAAAj/cute.gif',
-    },
-    {
-      id: 12,
-      description: 'Dale, no seas mala',
-      img: 'https://media.tenor.com/Az64YfoL7JcAAAAj/rawr.gif',
+      description: 'ya mi amor, dale a que si',
+      img: '<div class="tenor-gif-embed" data-postid="1522749976194054860" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/huna04-gif-1522749976194054860">Huna04 GIF</a>from <a href="https://tenor.com/search/huna04-gifs">Huna04 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+        ',
     },
   ];
 
@@ -109,7 +110,8 @@ function App() {
           <img
             src={
               Object.keys(randomValor).length === 0
-                ? 'https://i.pinimg.com/originals/db/aa/c1/dbaac13f6278b91a15e480752b8a7242.gif'
+                ? '<div class="tenor-gif-embed" data-postid="6460213459165930031" data-share-method="host" data-aspect-ratio="1.57895" data-width="100%"><a href="https://tenor.com/view/hi-hello-kitty-wink-hello-gif-6460213459165930031">Hi Hello Kitty GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+              '
                 : randomValor.img
             }
             alt="San Valentin"
@@ -123,7 +125,7 @@ function App() {
                 setValueSi(true);
 
                 jsConfetti.addConfetti({
-                  emojis: ['😍', '🥰', '❤️', '😘'],
+                  emojis: ['🌹', '💌', '❤️', '💝'],
                   emojiSize: 70,
                   confettiNumber: 200,
                 });
@@ -148,7 +150,7 @@ function App() {
                 {
                   (document.title =
                     Object.keys(randomValor).length === 0
-                      ? '¿Quieres ser mi San Valentin?'
+                      ? '¿Puedo ser tu San Valentin?'
                       : randomValor.description)
                 }
               </span>
@@ -158,10 +160,11 @@ function App() {
       ) : (
         <div className="flex justify-center items-center flex-col space-y-10">
           <h1 className="text-4xl font-bold">
-            Sabia que dirias que si ❤️!
+            Amor, estás cordialmente invitada a una cena conmigo este domingo 15 de febrero. Te quiero mucho   ❤️!
           </h1>
           <img
-            src="https://i.pinimg.com/originals/9b/dc/c6/9bdcc6206c1d36a37149d31108c6bb41.gif"
+            src="<div class="tenor-gif-embed" data-postid="7950328" data-share-method="host" data-aspect-ratio="1.07333" data-width="100%"><a href="https://tenor.com/view/hello-kitty-lean-love-bff-couple-gif-7950328">Hello Kitty Lean GIF</a>from <a href="https://tenor.com/search/hello+kitty-gifs">Hello Kitty GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    "
             alt=""
             className="mx-auto"
           />
